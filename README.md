@@ -25,10 +25,7 @@ View detailed customer data by cluster
 # Dataset Format
 The Streamlit app expects a transaction dataset in CSV format. The required columns are:
 
-## Column	             ## Description
-customer_id	           Unique customer identifier
-transaction_date	     Date of transaction
-tran_amount	           Transaction amount
-Download full segmentation results as CSV
+<img width="592" height="197" alt="image" src="https://github.com/user-attachments/assets/39cc4215-7247-4bbd-a851-91fc6c18450a" />
+
 Download individual cluster data
 Generate actionable marketing recommendations for each customer segment
